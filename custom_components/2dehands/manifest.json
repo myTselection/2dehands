@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "domain": "2dehands",
+  "name": "2dehands",
+  "codeowners": ["@myTselection"],
+  "config_flow": true,
+  "documentation": "https://github.com/myTselection/2dehands",
+  "requirements": ["aiohttp>=3.8.0"],
+  "version": "1.0.0"
+}
